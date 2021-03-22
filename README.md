@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+    <style></style>
+  </head>
+  <body>
+    <div class="header">This is a header</div>
+    <div class="menu">
+      <a href="homepage.html">Home</a><br />
+      <a href="aboutpage.html">About</a><br />
+      <a href="contactpage.html">Contact</a><br />
+    </div>
+    <div class="content">
+      "<details>
+  <summary>About the people to made the hacks!</summary>
+ <hr />
+ Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by
+            <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>. <b>An order of any amount of accounts are free</b>
+          .  The ProdigyMathGameHacking Code of Conduct does apply. My motiviation is the same as ProdigyMathGameHacking:
+            <blockquote style="border-left: 5px solid #ddd; padding-left: 10px;">
+                We're not trying to break the game because we're evil. We just wanted to help Prodigy become more secure, but they've ignored our emails and our requests to talk.
+                <br/>
+                Because of that we're just publicly showing hacks! That, and it's also just fun ;)
+                <br/>
+                All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
+            </blockquote>
 
-You can use the [editor on GitHub](https://github.com/UN3N0WNGH0ST/mypage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+</details>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<details>
 
-### Markdown
+<summary>How to request a account!</summary>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, email
+            <a href="mailto:calebthehufflepuff@gmail.com">calebthehufflepuff@gmail.com</a> - if you'd like to make an order, please click the button below.
+            <br/><br/>
+            If you'd like to learn more about this project, see <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/discussions/23">here</a>.
+        </div>
+        
+   <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/issues/new?assignees=&labels=&template=account-request-.md"
+        class="blockButton">Click here to request a account</a>
+    
+   </body>
+</html>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UN3N0WNGH0ST/mypage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</details>
+    </div>
+    <div class="footer"></div>
+  </body>
+</html>
