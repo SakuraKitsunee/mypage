@@ -1,50 +1,39 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Website</title>
+    <title>About Me</title>
+
     <style></style>
   </head>
   <body>
-    <div class="header">This is a header</div>
+    <div class="header">
+      This is a header
+    </div>
     <div class="menu">
-      <a href="homepage.html">Home</a><br />
-      <a href="aboutpage.html">About</a><br />
-      <a href="contactpage.html">Contact</a><br />
+      <a href="homepage.html">Home</a>
+      <br />
+      <a href="aboutpage.html">About</a>
+      <br />
+      <a href="contactpage.html">Contact</a>
+      <br />
     </div>
     <div class="content">
-      "<details>
-  <summary>About the people to made the hacks!</summary>
- <hr />
- Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by
-            <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>. <b>An order of any amount of accounts are free</b>
-          .  The ProdigyMathGameHacking Code of Conduct does apply. My motiviation is the same as ProdigyMathGameHacking:
-            <blockquote style="border-left: 5px solid #ddd; padding-left: 10px;">
-                We're not trying to break the game because we're evil. We just wanted to help Prodigy become more secure, but they've ignored our emails and our requests to talk.
-                <br/>
-                Because of that we're just publicly showing hacks! That, and it's also just fun ;)
-                <br/>
-                All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
-            </blockquote>
-
-</details>
-
-<details>
-
-<summary>How to request a account!</summary>
-
-If you have any questions, email
-            <a href="mailto:calebthehufflepuff@gmail.com">calebthehufflepuff@gmail.com</a> - if you'd like to make an order, please click the button below.
-            <br/><br/>
-            If you'd like to learn more about this project, see <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/discussions/23">here</a>.
-        </div>
-        
-   <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/issues/new?assignees=&labels=&template=account-request-.md"
-        class="blockButton">Click here to request a account</a>
-    
-   </body>
-</html>
-
-</details>
+      <h1>About me</h1>
+      <p style="font-style: italic;">A tragedy</p>
+      <p>
+        Now, this is the story all about how my life got flipped-turned upside
+        down and I'd like to take a minute, just sit right there I'll tell you
+        how I became the prince of a town called Bel Air. <br />
+        In West Philadelphia, born and raised on the playground is where I spent
+        most of my days chillin' out, maxin', relaxin' all cool and all shootin'
+        some B-ball outside of the school. <br />
+        When a couple of guys who were up to no good started makin' trouble in
+        my neighborhood I got in one little fight and my mom got scaredand said,
+        "You're movin' with your aunty and uncle in Bel Air." <br />
+        I begged and pleaded with her the other day but she packed my suitcase
+        and sent me on my way she gave me a kiss and then she gave me my ticket
+        I put my Walkman on and said, "I might as well kick it!" <br />
+      </p>
     </div>
     <div class="footer"></div>
   </body>
