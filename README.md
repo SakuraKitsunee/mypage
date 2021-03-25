@@ -28,7 +28,7 @@
     <div class="content">
       <h1>Here's how you can contact me!</h1>
       <ul>
-        <li>Email:calebthehufflepuff@gmail.com</li>
+        <li>Email: calebthehufflepuff@gmail.com</li>
       </ul>
     </div>
     <div class="footer"></div>
