@@ -18,18 +18,12 @@
   </body>
 </html>
 
-<!DOCTYPE html>
 <html>
   <head>
     <title>Contact Me</title>
-
-   <style></style>
+<style></style>
   </head>
   <body>
-    <div class="header">This is a header</div>
-    <div class="menu">
-      <a href="homepage.html">Home</a><br />
-      <a href="contactpage.html">Contact</a><br />
     </div>
     <div class="content">
       <h1>Here's how you can contact me!</h1>
